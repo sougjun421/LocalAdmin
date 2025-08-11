@@ -37,7 +37,7 @@
 ![시스템 아키텍처](docs/architecture.png)
 
 ## 📌 ERD
-![ERD](docs/erd.png)
+![ERD](docs/ERD.JPG)
 
 ## 📸 화면 예시
 ### 로그인 화면
