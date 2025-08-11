@@ -37,7 +37,7 @@
 ![시스템 아키텍처](docs/architecture.png)
 
 ## 📌 ERD
-<img src="docs/ERD.JPG" alt="ERD 다이어그램" width="600" />
+<img src="docs/ERD.JPG" alt="ERD 다이어그램" />
 
 ## 📸 화면 예시
 ### 로그인 화면
