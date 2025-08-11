@@ -39,18 +39,21 @@
 ## 📌 ERD
 ![erd](https://github.com/user-attachments/assets/adb33bdc-16c9-4228-8336-ca8e99183e6d)
 
-## 📸 화면 예시
+## 📸 화면 시연 영상
 ### 로그인 화면
-
+https://github.com/user-attachments/assets/51b77f1b-bc84-4909-8877-ea768f29d9dd
 
 ### 대시보드
-![대시보드](docs/dashboard.png)
+[![대시보드](docs/dashboard.png)](https://github.com/user-attachments/assets/62cca102-6c19-4c52-8684-2e361ae2a519)
 
 ### 공지사항 게시판
-![공지사항 게시판](docs/notice_board.png)
+[![공지사항 게시판](docs/notice_board.png)](https://github.com/user-attachments/assets/b786b72b-da08-4af3-95b0-346202f70a2b)
 
-### 주민등록 게시판
-![주민등록 게시판](docs/resident_board.png)
+### 주민 게시판
+[![주민등록 게시판](docs/resident_board.png)](https://github.com/user-attachments/assets/1f5c7797-f314-45ff-b10a-459505a43788)
 
 ### 민원사항 게시판
-![민원사항 게시판](docs/complaint_board.png)
+[![민원사항 게시판](docs/complaint_board.png)](https://github.com/user-attachments/assets/6aa21b01-93e4-4471-b6fe-44d8e7b04886)
+
+### 민원댓글 
+https://github.com/user-attachments/assets/df13144a-ccae-4655-949c-583cab53784d
