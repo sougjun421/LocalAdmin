@@ -34,9 +34,9 @@
 - 댓글 작성
 
 ## 🖥 시스템 아키텍처
-SW 아키텍처
-<img width="1222" height="450" alt="Image" src="https://github.com/user-attachments/assets/a76795b8-7fda-43db-bf60-b7119dffe031" />
 HW 아키텍처
+<img width="1222" height="450" alt="Image" src="https://github.com/user-attachments/assets/a76795b8-7fda-43db-bf60-b7119dffe031" />
+SW 아키텍처
 <img width="1244" height="505" alt="Image" src="https://github.com/user-attachments/assets/4b087b13-841f-4eaa-afb2-990f01547bae" />
 ## 📌 ERD
 <img width="1290" height="577" alt="Image" src="https://github.com/user-attachments/assets/a8389c63-d573-4ca6-842f-203ce3a3ac68" />
