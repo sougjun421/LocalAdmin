@@ -34,14 +34,14 @@
 - 댓글 작성
 
 ## 🖥 시스템 아키텍처
-![HW 아키텍처](https://github.com/user-attachments/assets/e6d4509c-ae13-4def-96d2-c655120bf294)
-![SW 아키텍처](https://github.com/user-attachments/assets/f32accca-68e5-476a-9c39-1c9a90de951d)
+![SW 아키텍처](https://github.com/user-attachments/assets/e6d4509c-ae13-4def-96d2-c655120bf294)
+![HW 아키텍처](https://github.com/user-attachments/assets/f32accca-68e5-476a-9c39-1c9a90de951d)
 ## 📌 ERD
 ![erd](https://github.com/user-attachments/assets/adb33bdc-16c9-4228-8336-ca8e99183e6d)
 
 ## 📸 화면 예시
 ### 로그인 화면
-![Image](https://github.com/user-attachments/assets/a425f02f-8754-4a60-9c6f-e64364af62e9)
+
 
 ### 대시보드
 ![대시보드](docs/dashboard.png)
