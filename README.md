@@ -41,7 +41,7 @@
 
 ## 📸 화면 예시
 ### 로그인 화면
-![로그인 화면](docs/login.png)
+![Image](https://github.com/user-attachments/assets/a425f02f-8754-4a60-9c6f-e64364af62e9)
 
 ### 대시보드
 ![대시보드](docs/dashboard.png)
