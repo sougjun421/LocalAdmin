@@ -34,28 +34,28 @@
 - 댓글 작성
 
 ## 🖥 시스템 아키텍처
-HW 아키텍처
+<b>HW 아키텍처</b>
 <img width="1222" height="450" alt="Image" src="https://github.com/user-attachments/assets/a76795b8-7fda-43db-bf60-b7119dffe031" />
-SW 아키텍처
+<b>SW 아키텍처</b>
 <img width="1244" height="505" alt="Image" src="https://github.com/user-attachments/assets/4b087b13-841f-4eaa-afb2-990f01547bae" />
 ## 📌 ERD
 <img width="1290" height="577" alt="Image" src="https://github.com/user-attachments/assets/a8389c63-d573-4ca6-842f-203ce3a3ac68" />
 
 ## 📸 화면 시연 영상
 ### 로그인 화면
-https://github.com/user-attachments/assets/51b77f1b-bc84-4909-8877-ea768f29d9dd
+https://github.com/user-attachments/assets/4b167042-ff79-4cb5-aa22-d5d6f6ce972d
 
 ### 대시보드
-[![대시보드](docs/dashboard.png)](https://github.com/user-attachments/assets/62cca102-6c19-4c52-8684-2e361ae2a519)
+https://github.com/user-attachments/assets/5c8ee4b6-9ae5-4e6b-958d-b30c6522cc61
 
 ### 공지사항 게시판
-[![공지사항 게시판](docs/notice_board.png)](https://github.com/user-attachments/assets/b786b72b-da08-4af3-95b0-346202f70a2b)
+https://github.com/user-attachments/assets/d62d3b4d-d014-43ca-92de-9c2197f568a8
 
 ### 주민 게시판
-[![주민등록 게시판](docs/resident_board.png)](https://github.com/user-attachments/assets/1f5c7797-f314-45ff-b10a-459505a43788)
+https://github.com/user-attachments/assets/9ea59632-5cc7-4184-b031-4c81cbfd234e
 
 ### 민원사항 게시판
-[![민원사항 게시판](docs/complaint_board.png)](https://github.com/user-attachments/assets/6aa21b01-93e4-4471-b6fe-44d8e7b04886)
+https://github.com/user-attachments/assets/54782970-6b31-44f1-9159-71cd48dc963e
 
 ### 민원댓글 
-https://github.com/user-attachments/assets/df13144a-ccae-4655-949c-583cab53784d
+https://github.com/user-attachments/assets/23ecb0c5-3514-44f9-b8f0-baeaaf309421
