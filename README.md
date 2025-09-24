@@ -19,7 +19,7 @@
 
 **프론트엔드**
 - JSP, Bootstrap 3.x (sb-admin-2)
-- jQuery, DataTables, Flot.js, Morris.js
+- jQuery, DataTables
 
 ## 📂 주요 기능
 ### 👤 주민(사용자)
