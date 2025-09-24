@@ -42,7 +42,7 @@
 <img width="1290" height="577" alt="Image" src="https://github.com/user-attachments/assets/a8389c63-d573-4ca6-842f-203ce3a3ac68" />
 
 ## 📸 화면 시연 영상
-### 로그인 화면– Spring Security 적용
+### 로그인 화면- Spring Security 적용
 https://github.com/user-attachments/assets/4b167042-ff79-4cb5-aa22-d5d6f6ce972d  
 
 ![](https://via.placeholder.com/10x50/FFFFFF/FFFFFF?text=)  
@@ -67,7 +67,7 @@ https://github.com/user-attachments/assets/54782970-6b31-44f1-9159-71cd48dc963e
 
 ![](https://via.placeholder.com/10x50/FFFFFF/FFFFFF?text=)  
 
-### 민원댓글– 민원글 ID + 댓글번호 기반으로 CRUD 구현
+### 민원댓글- 민원글 ID + 댓글번호 기반으로 CRUD 구현
 https://github.com/user-attachments/assets/23ecb0c5-3514-44f9-b8f0-baeaaf309421  
 
 
