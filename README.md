@@ -42,20 +42,20 @@
 <img width="1290" height="577" alt="Image" src="https://github.com/user-attachments/assets/a8389c63-d573-4ca6-842f-203ce3a3ac68" />
 
 ## 📸 화면 시연 영상
-### 로그인 화면
+### 로그인 화면– Spring Security 적용
 https://github.com/user-attachments/assets/4b167042-ff79-4cb5-aa22-d5d6f6ce972d
 
-### 대시보드
+### 대시보드- 스프링 REST API 기반 데이터 연동 및 JavaScript 동적 UI 갱신
 https://github.com/user-attachments/assets/5c8ee4b6-9ae5-4e6b-958d-b30c6522cc61
 
-### 공지사항 게시판
+### 공지사항 게시판- Spring Legacy MVC 패턴을 이용한 CRUD 구현
 https://github.com/user-attachments/assets/d62d3b4d-d014-43ca-92de-9c2197f568a8
 
-### 주민 게시판
+### 주민 게시판- Spring Legacy MVC 패턴을 이용한 CRUD 구현
 https://github.com/user-attachments/assets/9ea59632-5cc7-4184-b031-4c81cbfd234e
 
-### 민원사항 게시판
+### 민원사항 게시판- Spring Legacy MVC 패턴을 이용한 CRUD 구현
 https://github.com/user-attachments/assets/54782970-6b31-44f1-9159-71cd48dc963e
 
-### 민원댓글 
+### 민원댓글– 민원글 ID + 댓글번호 기반으로 CRUD 구현
 https://github.com/user-attachments/assets/23ecb0c5-3514-44f9-b8f0-baeaaf309421
