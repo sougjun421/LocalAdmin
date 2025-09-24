@@ -44,7 +44,7 @@
 ## 📸 화면 시연 영상
 ### 로그인 화면– Spring Security 적용
 https://github.com/user-attachments/assets/4b167042-ff79-4cb5-aa22-d5d6f6ce972d
-
+<br>
 
 ### 대시보드- 스프링 REST API 기반 데이터 연동 및 JavaScript 동적 UI 갱신
 https://github.com/user-attachments/assets/5c8ee4b6-9ae5-4e6b-958d-b30c6522cc61
